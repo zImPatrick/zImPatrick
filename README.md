@@ -10,8 +10,6 @@ Ich bin irgendein Typ, den niemand kennt.
 [<img src="https://zimpatrick.gq/assets/discord.png" width="48px">](https://discord.gg/7RTxDb9)
 [<img src="https://telegram.org/img/t_logo.svg?1" width="48px">](https://t.me/zImPatrick)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zImPatrick)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **zImPatrick/zImPatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
