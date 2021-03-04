@@ -2,6 +2,7 @@
 Ich bin irgendein Typ, den niemand kennt.
 
 ## Interessanter Stuff
+[Intercord](intercord) • Eine ExpressJS Middleware für Discord's Interactions feature  
 [CatMOTD](catmotd) • Ein Minecraft Plugin, welches Katzen in der Server-Liste anzeigt  
 [KarlsonMod](karlsonmod) • Ein (schlechter) Mod für Karlson  
 
