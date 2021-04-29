@@ -3,7 +3,7 @@ Ich bin irgendein Typ, den niemand kennt.
 
 ## Kontakt
 [<img src="https://zimpatrick.gq/assets/img/twitter.png" width="48px">](https://twitter.com/zImPatrick_)
-[<img src="https://zimpatrick.gq/assets/img/discord.png" width="48px">](https://discord.gg/7RTxDb9)
+[<img src="https://zimpatrick.gq/assets/img/discord.png" width="48px">](https://discord.gg/cmXZA2Mvw9)
 [<img src="https://telegram.org/img/t_logo.svg?1" width="48px">](https://t.me/zImPatrick)
 
 <!--
