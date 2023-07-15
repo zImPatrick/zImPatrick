@@ -20,3 +20,13 @@ jobs:
           template: classic
           base: header, activity
           config_timezone: Europe/Vienna
+          
+          # Music Plugin
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_mode: top
+          plugin_music_played_at: yes
+          plugin_music_provider: lastfm
+          plugin_music_time_range: medium
+          plugin_music_top_type: tracks
+          plugin_music_user: zImPatrick
