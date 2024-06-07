@@ -4,4 +4,4 @@
 
 <!-- geklaut von https://github.com/cloud11665/cloud11665/blob/master/readme.md -->
 ```math
-\ce{$\unicode[a; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.8; background: #15141b;]{x0000}$}
+\ce{$\unicode[a; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; background-size: cover; width: 130vw; opacity: 1; background: #15141b;]{x0000}$}
